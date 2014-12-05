@@ -1,0 +1,14 @@
+[lang]ja[lang]
+[page_title]日本語で[page_title]
+[post_title]日本語で[post_title]
+[post_date]30.11.2014 01:02[post_date]
+[article]
+
+[images]keep-it-simple.png#keep-it-simple.png#keep-it-simple.png[images]
+
+KISS の原則 (KISS principle) とは、"Keep it simple, stupid" （シンプルにしておけ！この間抜け）、もしくは、"Keep it short and simple" （簡潔に単純にしておけ）という経験的な原則[1]の略語。
+その意味するところは、設計の単純性（簡潔性）は成功への鍵だということと、不必要な複雑性は避けるべきだということである。意味はそのままに余計な文字を省略して、"KISの原則"とする人もいる。
+
+<a href="https://ja.wikipedia.org/wiki/KISS%E3%81%AE%E5%8E%9F%E5%89%87">Wikipedia</a>
+
+[article]

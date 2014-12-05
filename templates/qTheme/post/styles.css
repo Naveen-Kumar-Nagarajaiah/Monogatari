@@ -1,0 +1,91 @@
+/******************  POST ****************************/
+
+.post_title {
+	/* white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden; */
+	float:left;
+    font-size:120%;
+}
+
+.content {
+	clear:both;
+	margin-left: auto;
+	margin-right: auto;
+	width:90%;
+    /* margin-top: 90px; */
+
+}
+
+.date{
+    width:200px;
+	text-align: left;
+	margin:10 10 10 10;
+}
+
+.social_btns{
+	clear:both;
+}
+
+.social_btns td{
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:5px;
+    vertical-align: top;
+}
+
+.social_btns .item{
+	padding: 10px;
+	vertical-align: top;
+    display: inline-block;
+    width: auto;
+	
+}
+
+.social_btns:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.images {
+    text-align: justify;
+}
+
+.images img {
+	padding: 10px;
+	vertical-align: middle;
+    display: inline-block;
+    width: 400px;
+}
+
+.images:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+/******************  POST END ****************************/
+
+
+.copyright{
+	padding: 10px; 
+	width:200px;
+	font-size: 80%;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	color: gray;
+    
+}
+
+.donate{
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 20px;
+	float: right;
+}
+

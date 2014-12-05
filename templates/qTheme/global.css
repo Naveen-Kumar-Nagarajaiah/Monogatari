@@ -1,0 +1,55 @@
+
+/******************  GLOBAL ****************************/
+
+html{
+	background-color: #313131;
+	font-family: 'Monaco', courier, monospace;
+	color: #ccc;
+	font-size: 110%;
+}
+
+a{
+	color: #ffffff;
+	font-size: 100%;
+	text-decoration: none;
+}
+
+a:hover  {
+    color: #ff600a;
+}
+
+
+img{  
+	border-style: none;
+}
+
+hr {
+	display: block;
+    color: #ff600a;
+    float:left;
+    width:100%;
+    border-style: solid;
+    border-width: 1px;
+} 
+
+.copyright{
+	padding: 10px; 
+	width:200px;
+	font-size: 80%;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+	color: gray;
+}
+
+.logo{
+	float:left;
+	width:36px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+

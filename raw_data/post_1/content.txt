@@ -1,0 +1,15 @@
+[lang]ru[lang]
+[page_title]Пост на русском[page_title]
+[post_title]Пост на русском[post_title]
+[post_date]30.11.2014 00:50[post_date]
+[article]
+
+[images]keep-it-simple.png#keep-it-simple.png#keep-it-simple.png[images]
+
+KISS (англ. keep it simple, stupid — буквально — «делай это проще, тупица» или более вежливый вариант англ. keep it short and simple — «делай короче и проще») — процесс и принцип проектирования,
+при котором простота системы декларируется в качестве основной цели и/или ценности. Имеют хождение разные расшифровки этого акронима.
+Эрик Рэймонд в своей книге резюмирует философию UNIX как широко используемый принцип KISS.
+
+<a href="https://ru.wikipedia.org/wiki/KISS_%28%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%29">Wikipedia</a>
+
+[article]
