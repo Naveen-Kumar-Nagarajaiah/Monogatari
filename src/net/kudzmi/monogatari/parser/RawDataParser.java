@@ -101,7 +101,9 @@ public final class RawDataParser {
             final StringBuilder builder = new StringBuilder();
             builder.append("<div class=\"images\">");
             for (String part : parts) {
+                builder.append("<a href=\"").append(part).append("\" >");
                 builder.append("<img src=\"").append(part).append("\" width=\"").append(Config.it().getGlobal().getImageWidth()).append("\" />");
+                builder.append("</a>");
             }
             builder.append("</div>");
             imageStr = builder.toString();
